@@ -101,6 +101,13 @@ Watermark medical documents before sharing with providers. HIPAA compliance supp
 3. **Preview Live** - See changes in real-time on canvas
 4. **Download Protected** - Export watermarked document
 
+## 💖 Support This Project
+
+UseBound is **100% free** with no ads or premium features. If you find it useful, please consider supporting its development:
+
+- ☕ [Ko-fi](https://ko-fi.com/bened1kt)
+- 💳 [PayPal](https://paypal.me/btroe)
+
 ## 🔐 Privacy Architecture
 
 UseBound is built with a **zero-trust architecture**:
@@ -138,16 +145,11 @@ Found a bug or have a feature idea? Please [open an issue](https://github.com/re
 - Provide clear reproduction steps for bugs
 - Explain the use case for feature requests
 
-## 💖 Support This Project
-
-UseBound is **100% free** with no ads or premium features. If you find it useful, please consider supporting its development:
-
-- ☕ [Ko-fi](https://ko-fi.com/bened1kt)
-- 💳 [PayPal](https://paypal.me/btroe)
-
 ## 📜 License
 
-This project is proprietary software. The source code is not publicly available.
+This project is free to use and runs on donations.
+
+Please don't steal it: don't copy the code into your own projects, don't repost it, and don't sell it. If it helps you, toss a donation my way or credit me properly.
 
 ---
 
