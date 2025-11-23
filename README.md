@@ -138,7 +138,7 @@ UseBound is built with a **zero-trust architecture**:
 
 ## 🐛 Bug Reports & Feature Requests
 
-Found a bug or have a feature idea? Please [open an issue](https://github.com/reijin90/usebound.app/issues)!
+Found a bug or have a feature idea? Please [open an issue](https://github.com/benedikt90/usebound.app/issues)!
 
 **Before submitting**:
 - Search existing issues to avoid duplicates
