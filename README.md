@@ -18,15 +18,15 @@
 
 ---
 
-## 🔒 What is UseBound?
+## What is UseBound?
 
 UseBound is a **100% client-side document watermarking tool** that helps you protect sensitive documents before sharing them. Add visible, purpose-bound watermarks to PDFs and images directly in your browser—no uploads, no tracking, complete privacy.
 
-## 🎯 The Problem It Solves
+## The Problem It Solves
 
 When you share sensitive documents (IDs, passports, contracts, financial records), you lose control once they're uploaded. If they leak in a data breach, there's no way to prove misuse or track the source. Documents can be used for identity theft, fraud, or unauthorized purposes without consequence.
 
-## ✨ The Solution
+## The Solution
 
 UseBound adds visible watermarks that state:
 - **WHO** the document is for (recipient/organization)
@@ -62,7 +62,7 @@ This creates built-in accountability. If the document appears in a hacked databa
 - **Keyboard Shortcuts** - Fast workflow with hotkeys
 - **Responsive Design** - Works on desktop, tablet, and mobile
 
-## 📋 Primary Use Cases
+## Primary Use Cases
 
 ### 1. ID Verification
 Watermark passports/driver's licenses before sending to companies:
@@ -94,7 +94,7 @@ Add accountability to NDAs, agreements, sensitive communications. Clear audit tr
 ### 5. Medical Records
 Watermark medical documents before sharing with providers. HIPAA compliance support with accountability layer.
 
-## 🎨 How It Works
+## How It Works
 
 1. **Load Your Document** - Drag & drop or select PDF/image files
 2. **Customize Watermark** - Set text, position, style, rotation
@@ -118,7 +118,7 @@ UseBound is built with a **zero-trust architecture**:
 - ✅ Content Security Policy enforced
 - ✅ Verifiable via browser DevTools Network tab
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 - **Frontend**: Vanilla JavaScript (ES6+)
 - **PDF Processing**: PDF-lib
@@ -126,7 +126,7 @@ UseBound is built with a **zero-trust architecture**:
 - **Styling**: CSS Variables with light/dark theme support
 - **Canvas API**: For image watermarking
 
-## 🎯 Target Audience
+## Target Audience
 
 - Privacy-conscious individuals sharing sensitive documents
 - Job seekers (ID verification)
@@ -145,7 +145,7 @@ Found a bug or have a feature idea? Please [open an issue](https://github.com/re
 - Provide clear reproduction steps for bugs
 - Explain the use case for feature requests
 
-## 📜 License
+## License
 
 This project is free to use and runs on donations.
 
@@ -158,6 +158,6 @@ Please don't steal it: don't copy the code into your own projects, don't repost 
   <p><a href="https://usebound.app">🌐 usebound.app</a></p>
 </div>
 
-## 🏷️ Keywords
+## Keywords
 
 document watermarking, privacy, security, ID verification, contract watermarking, browser-only, offline, no upload, accountability, data breach protection, identity theft prevention, sensitive documents, passport watermark, financial documents, legal documents, HIPAA, GDPR, privacy-first, zero-trust, client-side processing, PDF watermark, image watermark, document security, leak tracing, purpose-bound documents
