@@ -147,9 +147,15 @@ Found a bug or have a feature idea? Please [open an issue](https://github.com/re
 
 ## License
 
-This project is free to use and runs on donations.
+**UseBound is free to use, but not open source.** The source code is proprietary and not publicly available.
 
-Please don't steal it: don't copy the code into your own projects, don't repost it, and don't sell it. If it helps you, toss a donation my way or credit me properly.
+This means:
+- ✅ You can **use the app for free** at [usebound.app](https://usebound.app)
+- ✅ You can **report bugs and request features** in this repository
+- ❌ You **cannot access, copy, or modify** the source code
+- ❌ You **cannot redistribute or sell** this software
+
+The project runs entirely on donations. If UseBound helps you protect your sensitive documents, please consider [supporting its development](#-support-this-project) to keep it free and ad-free for everyone!
 
 ---
 
